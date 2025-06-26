@@ -1,2 +1,2 @@
 # MemoireM2Python
-Ce dépôt contient les expériences, les scripts et  les animations de mon mémoire de Master 2, sur l'approximation des système dynamiques par des réseaux de neurones et applications : visualisations avec matplotlib , FFmpeg , des bibliothèques de visualisation 3D et export HTML
+Ce dépôt contient les expériences, les scripts et les animations réalisés dans le cadre de mon mémoire de Master 2 à l’Université de Dschang, au Cameroun. Mon travail porte sur l’approximation des systèmes dynamiques à l’aide de réseaux de neurones, avec des visualisations effectuées à l’aide de matplotlib, FFmpeg, de bibliothèques de visualisation 3D, ainsi que l’exportation en HTML. Les bibliothèques principales utilisées incluent TensorFlow et PyTorch.
